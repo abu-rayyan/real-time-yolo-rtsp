@@ -15,7 +15,7 @@ This project demonstrates real-time object detection using YOLO (You Only Look O
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/realtime-yolo-rtsp.git
+git clone https://github.com/abu-rayyan/real-time-yolo-rtsp.git
 cd real-time-yolo-rtsp/
 ```
 
